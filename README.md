@@ -2,6 +2,9 @@
 
 A modern, interactive eCommerce dashboard built with React, featuring real-time analytics, 3D visualizations, and smooth animations.
 
+deployed URL :
+https://justdashdiv.netlify.app/
+
 ## 🚀 Features
 
 ### 📊 Dashboard Analytics
@@ -38,6 +41,7 @@ A modern, interactive eCommerce dashboard built with React, featuring real-time 
 - **3D Graphics:** Three.js
 - **Icons:** Lucide React
 - **Routing:** React Router DOM
+  **Deployment:** Netlify
 
 
 ## 📦 Installation
@@ -108,8 +112,6 @@ npm start
 - `npm eject` - Eject from Create React App
 
 ## 📈 Performance Features
-
-
 
 - **Optimized Animations** - Framer Motion with hardware acceleration
 - **Responsive Images** - Optimized asset loading
